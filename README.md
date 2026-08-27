@@ -6,10 +6,10 @@ Kyunghee University Department of Software Convergence
 
 ### 🏆 Awards & Certifications
 
-- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/abe0251b-9727-4279-a902-afed0d73f729/public_url)** (2026.08)
-- **2026 세모톤(Semotone) 우수상**
-- **경기 6개대학 연합 창업경진대회 장려상**
 - KHU ASBG Member (2026.03 ~ )
+- **2026 세모톤(Semotone) 우수상** (2026.05)
+- **제7회 대학창업연합캠프-경기실록지리지 장려상** (2026.07)
+- **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/abe0251b-9727-4279-a902-afed0d73f729/public_url)** (2026.08)
 
 ---
 
