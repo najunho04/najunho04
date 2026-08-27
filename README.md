@@ -1,8 +1,6 @@
-# 나준호 (Na Junho)
+### About Me
 
-경희대학교 소프트웨어융합학과 23학번
-
-Android · Backend · 데이터/퀀트 영역을 두루 다뤄보며 만들고 검증하는 걸 좋아합니다.
+Kyunghee University Department of Software Convergence
 
 ---
 
