@@ -1,10 +1,10 @@
 ### About Me
 
-Kyunghee University Department of Software Convergence
+Kyunghee University Department of Software Convergence 23
 
 ---
 
-### 🏆 Awards & Certifications
+### 🏆 Experience & Certifications
 
 - KHU ASBG Member (2026.03 ~ )
 - KHU G-LAMP 사업단 홈페이지 기획 및 개발 (2026.03 ~ 06)
